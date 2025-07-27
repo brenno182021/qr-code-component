@@ -51,12 +51,13 @@ main {
   padding-bottom: 40px;
 }
 
-.text > p {
+h1,
+h2 {
   padding: 0px 16px;
   text-align: center;
 }
 
-.text > p:first-child {
+.text > h1 {
   font-weight: 700;
   font-size: 20px;
   color: var(--color-slate-900);
